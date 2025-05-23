@@ -15,3 +15,6 @@
 <br><br>
 
 <img src="hatsune-miku-cute.gif" height="100" />
+
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/rebeca-schneider-coelho-da-silva-178572304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![](https://img.shields.io/badge/insta-ff66ab)](https://www.instagram.com/_kei.flower?igsh=aWZxbGNkc2VndG8=)
