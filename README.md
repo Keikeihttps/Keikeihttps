@@ -8,7 +8,7 @@
     💭 Estudo na Instituição Firjan Senai Sesi
     🦖 Desenvolvimento de sistemas - T.I.
     📖 Mexo com HTML e Python
-    🎀 Quero aprender Java e suas linguagens 
+    🎀 Aprendendo Java e suas linguagens 
     🎮 Projetos criativos são minha especialidade
     🐾 A dúvida é o princípio da sabedoria
 </pre>
